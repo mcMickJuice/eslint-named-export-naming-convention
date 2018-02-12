@@ -1,0 +1,10 @@
+{
+	"devDependencies": {
+		"eslint": "^4.17.0",
+		"eslint-plugin-jest": "^21.8.0",
+		"jest": "^22.2.2"
+	},
+	"scripts": {
+		"test": "jest"
+	}
+}
